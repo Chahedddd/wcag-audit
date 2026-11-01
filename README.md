@@ -9,7 +9,7 @@ De instructies van deze opdracht staan in [WIKI](https://github.com/fdnd-task/wc
 
 Voor deze opdracht heb ik een bestaande site, namelijk https://www.apple.com/nl/store getest volgends de WCAG richtlijnen. Hiervoor heb ik een Lighthouse Accessibility test gedaan. 
 
-![Apple](<Schermafbeelding 2026-11-01 201242.png>)
+![Apple site](Schermafbeelding%202026-11-01%20201242.png)
 
 
 Om de site volgens de WCAG richtlijnen te testen heb ik een Lighthouse Accessibility test uitgevoerd via de Chrome DevTools.
